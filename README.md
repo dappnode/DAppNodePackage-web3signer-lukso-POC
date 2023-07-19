@@ -9,9 +9,4 @@ More information about the EIP can be found at the official website
 Why Web3signer ?
 Client diversity is a key path in DAppNode, you will be able to use different clients and do not deposit all the trust on just one of them. It can work as a load balancer, keeping your validators always validating
 
-Requirements
-Rquirements to run DAppNode package for Werb3signer
-
-Validator: set up your validator at https://prater.launchpad.ethereum.org/
-Execution client: you should have installed and synced an execution client from lukso chain such as geth-lukso
-Consensus client: you should have installed and synced an consensus client from lukso chain such as Prysm-lukso
+Select the Web3Signer package as part of your configuration in the Stakers tab of the Dappmanager.
